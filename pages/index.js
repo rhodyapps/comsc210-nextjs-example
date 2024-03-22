@@ -24,7 +24,7 @@ const Home = () => {
 
       <section id="showcase">
         <div className="container">
-          <h1>Affordable & Professional ChatBot Developers</h1>
+          <h1>Affordable & Professional System Developers</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus et augue vitae iaculis. Suspendisse fringilla ex ut odio ultrices, vel aliquam nulla mollis.</p>
         </div>
       </section>
@@ -42,21 +42,21 @@ const Home = () => {
       <section id="boxes">
         <div className="container">
                     <div className="box">
-                      <Image src="/img/chatbot-logo1.png" alt="Employee Education" width={400}
+                      <Image src="/img/logo_brush.png" alt="Employee Education" width={400}
       height={100} />  {/* Added alt text for accessibility */}
                       <h3>Employee Education</h3>
                       <p>Nam in dignissim augue, at vestibulum lacus. Donec scelerisque nec risus quis lobortis.</p>
                     </div>
 
           <div className="box">
-          <Image src="/img/chatbot-logo2.png" alt="Customer Support" width={400}
+          <Image src="/img/logo_css.png" alt="Customer Support" width={400}
       height={100} />  {/* Added alt text for accessibility */}
             <h3>Application Help</h3>
             <p>Nam in dignissim augue, at vestibulum lacus. Donec scelerisque nec risus quis lobortis.</p>
           </div>
 
           <div className="box">
-            <Image src="/img/chatbot-logo3.png" alt="System Troubleshooting" width={400}
+            <Image src="/img/logo_html.png" alt="System Troubleshooting" width={400}
       height={100} />  {/* Added alt text for accessibility */}
             <h3>System Troubleshooting</h3>
             <p>Nam in dignissim augue, at vestibulum lacus. Donec scelerisque nec risus quis lobortis.</p>
