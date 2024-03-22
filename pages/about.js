@@ -1,5 +1,7 @@
 import React from 'react';
 import '../app/globals.css';
+import Link from 'next/link';
+import Image from 'next/image';
 
 const About = () => {
   return (
@@ -11,9 +13,9 @@ const About = () => {
           </div>
           <nav>
             <u1>
-              <li><a href="/">Home</a></li>
-              <li className="current"><a href="/about">About</a></li>
-              <li><a href="/services">Services</a></li>
+              <li><Link href="/">Home</Link></li>
+              <li className="current"><Link href="/about">About</Link></li>
+              <li><Link href="/services">Services</Link></li>
             </u1>
           </nav>
         </div>
