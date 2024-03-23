@@ -36,8 +36,13 @@ const About = () => {
           <article id="main-col">
             <h1 class="page-title">About Us</h1>
             <p>
-              In pharetra dolor quis diam ornare sodales. Pellentesque id mauris eu leo mattis ultricies a tincidunt enim. Nunc bibendum ac tellus ut dignissim. Fusce vulputate eros sed turpis venenatis dictum. Ut ultricies, libero id mattis volutpat, purus dui efficitur urna, ac aliquet erat mauris vel quam. Duis ultrices eros non velit suscipit, quis porta ex hendrerit. Duis blandit urna quis molestie vehicula. Fusce lacus mauris, condimentum non pretium a, laoreet imperdiet ipsum. Aenean non lobortis ex. Aenean id est in nunc vehicula eleifend. Suspendisse gravida tempus sodales. Phasellus rutrum diam nec massa egestas euismod. Aenean fringilla posuere magna, vitae posuere mi pellentesque et. Curabitur at ligula id est tincidunt vestibulum. Nulla non lobortis nibh.
-            </p>
+              This website is used to help students learn about HTML, CSS, and NextJS. The webdesign is based on the tutorial from Traversey Media :
+            
+              <a href="https://www.youtube.com/watch?v=Wm6CUkswsNw" target="_blank" rel="noopener noreferrer">
+              Build an HTML5 Website with a Responsive Layout
+    </a>
+              </p>
+        
             <p>
               Integer nibh libero, aliquet eu lorem tincidunt, finibus semper diam. In id tellus nulla. Fusce vitae erat eleifend, ullamcorper nunc non, dapibus neque. Duis consequat dignissim egestas. Maecenas sollicitudin feugiat tristique. Nulla nec mauris ornare nisl gravida egestas. Vestibulum condimentum sapien suscipit nisi vehicula dapibus. In hac habitasse platea dictumst.
             </p>
