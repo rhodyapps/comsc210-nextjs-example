@@ -24,7 +24,7 @@ const Home = () => {
 
       <section id="showcase">
         <div className="container">
-          <h1>Affordable & Professional System Developers</h1>
+          <h1>Somewhat Affordable & Professional System Developers</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus et augue vitae iaculis. Suspendisse fringilla ex ut odio ultrices, vel aliquam nulla mollis.</p>
         </div>
       </section>
